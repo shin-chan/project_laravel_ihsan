@@ -99,7 +99,7 @@
 				</li><li>
 					<a href='?module=JS Array Methods'><i class='fa fa-angle-double-right'>	   </i>JS Array Methods[ 		]</a>
 				</li><li>
-					<a href='?module=JS Array Sort'><i class='fa fa-angle-double-right'>		  </i>JS Array Sort[	]</a>
+					<a href="{{route ('jsihsan')}}"><i class='fa fa-angle-double-right'></i>JS Ihsan Romdoni[IHSAN ROMDONI	]</a>
 				</li><li>
 					<a href='?module=JS Array Iteration'><i class='fa fa-angle-double-right'></i>JS Array Iteration[    ]</a>
 				</li><li>
